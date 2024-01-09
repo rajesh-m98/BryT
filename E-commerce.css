@@ -1,0 +1,236 @@
+.carousel {
+    margin-top: 50px;
+}
+
+.carousel-caption {
+    bottom: 3rem;
+    z-index: 10;
+    font-weight: bold;
+}
+
+.carousel-item {
+    height: 20rem;
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.welcome-carousel-image1 {
+    background-image: url(./Images/Home&living.jpg);
+}
+
+.welcome-carousel-image2 {
+    background-image: url(./Images/Jewels.jpg);
+}
+
+.welcome-carousel-image3 {
+    background-image: url(./Images/clothes.jpg);
+}
+
+.welcome-carousel-image4 {
+    background-image: url(./Images/wedding-banquet-celebration-powerpoint-background_bf0fde0468__960_540.avif);
+}
+
+.welcome-carousel-image5 {
+    background-image: url(./Images/Gift.png);
+}
+
+.welcome-carousel-image6 {
+    background-image: url(./Images/toys.jpg);
+}
+
+#BryT {
+    font-size: 2em;
+    color: white;
+    text-shadow: 2px 2px 3px red;
+}
+
+.carousel-inner p {
+    font-weight: bold;
+    font-size: 2.8em;
+    color: rgb(157, 0, 255);
+}
+
+select {
+    border: none;
+}
+
+#poweredby {
+    background-color: #8bb3dc;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+#percent {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+#percent svg {
+    width: 40px;
+}
+
+#appdownload {
+    text-align: center;
+    background-color:  rgb(18,40,104);
+}
+
+#logo {
+    background-color: #343a40;
+    color: white;
+    padding: 10px 20px;
+    font-size: 24px;
+    border: none;
+}
+
+#download {
+    background-color: #007bff; 
+    color: white;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+}
+
+#links {
+    margin-top: 0px;
+    background-color:  rgb(49,64,175);
+}
+
+.table td, .table th {
+    padding: 2px; 
+    
+}
+
+#head {
+    font-weight: bold;
+}
+
+#links #head {
+    transform: none;
+    cursor: text;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+#links p {
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+#links p:hover {
+    transform: translateX(3px);
+    text-decoration: underline;
+}
+
+#foot {
+    background-color: #838383;
+}
+
+#footer {
+    border-radius: 40px;
+    transition: 0.4s;
+}
+
+#footer:hover {
+    background-color: rgb(62, 62, 62);
+}
+
+select {
+    background-color: transparent !important; 
+    outline: none;
+}
+
+option {
+    background-color: rgba(255, 255, 255, 0.8) !important;
+}
+
+#buttons {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+#butt1 {
+    background: transparent; 
+    font-size: 16px;
+    border: none;
+    text-decoration: underline;
+}
+
+#buttons button {
+    font-size: 14px;
+}
+
+#subscribe {
+    background-color: rgb(255, 199, 103);
+}
+
+#populargifts {
+    text-align: center;
+    margin: 20px 0;
+    background-color: #ffff98;
+}
+
+#populargifts p {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+#populargifts button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+#populargifts button:hover {
+    border-radius: 10px;
+    box-shadow:  5px  5px 5px rgb(255, 157, 0),
+                -5px -5px 5px rgb(0, 157, 255),
+                -5px  5px 5px rgb(0, 157, 255),
+                 5px -5px 5px rgb(0, 157, 255);
+}
+
+#populargifts img {
+    max-width: 50%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+#populargifts p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+#populargifts #pop {
+    font-size: 22px;
+}
+
+#populargifts #light {
+    margin-left: 5px;
+}
+
+#populargifts #cost {
+    font-size: 18px;
+}
+
+strike {
+    color: red;
+}
+
+strong {
+    color: rgb(88, 234, 88);
+    font-weight: bold;
+}
+
+#discover img {
+    transition: 0.6s;
+    cursor: pointer;
+}
+
+#discover img:hover {
+    transform: rotateY(180deg);
+    box-shadow: 0px 7px 7px rgb(0, 26, 255);
+}
