@@ -13,7 +13,7 @@ This is a responsive e-commerce website developed using HTML, CSS, JavaScript, a
 
 ## Installation
 1. Clone the repository: `gh repo clone rajesh-m98/BryT-Responsive`
-2. Open `E-commerce.html` in a web browser.
+2. Open `(https://rajesh-m98.github.io/BryT/E-commerce.html)` in a web browser.
 
 ## Usage
 ...
